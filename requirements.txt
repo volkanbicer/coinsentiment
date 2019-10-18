@@ -19,4 +19,4 @@ six==1.11.0
 twython==3.6.0
 update-checker==0.16
 urllib3==1.22
-Werkzeug==0.14.1
+Werkzeug==0.15.3
